@@ -1,0 +1,5 @@
+{
+   "DataProviderSettings": {
+      "ConnectionString": "your_database_connection_string"
+   }
+}
